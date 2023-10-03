@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<institut nom="La Salle Gracia">
+    <cicles>
+        <especialitat nom="Informática">
+            <cicle id="ASIX" grau="Superior">Administració de Sistemes Informà tics i Xarxes</cicle>
+            <cicle id="SMX" grau="Mig">Sistemes Microinformátics i Xarxes</cicle>
+        </especialitat>
+        <especialitat nom="Administratiu">
+            <cicle id="GA" grau="Mig">Gestió Administrativa</cicle>
+            <cicle id="AF" grau="Superior">Administració i Finances</cicle>
+        </especialitat>
+    </cicles>
+    <notes>
+        <classe nom="SMX">
+            <alumne aprovat="SI"><nom>Federic Garcia</nom><nota>8</nota><email>fede@hotmail.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="NO"><nom>Albert Bru</nom><email>ab@potas.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Manolito Puigdevall</nom><nota>8</nota><email>manolito@hotmail.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Filomenu Pi</nom><nota>8</nota><email>filo@gmail.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="NO"><nom>Santiago Rabassa</nom><email>santi@destroyer.cat</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Marcel PupilÂ·la</nom><nota>8</nota><email>marcel32@hotmail.com</email><genere>Home</genere></alumne>
+        </classe>
+        <classe nom="ASIX">
+            <alumne aprovat="NO"><nom>Jaume Capmany</nom><email>jcp@gmail.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Mohamed Polih</nom><nota>5</nota><email>moha@correus.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Juan PÃ©rez</nom><nota>6</nota><email>jupe@xmailx.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Filibert Puig</nom><nota>5</nota><email>filib@mymail.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Bernat Alegria</nom><nota>9</nota><email>bern@hotmail.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="NO"><nom>Samuel Barnadas</nom><email>samu-samu@barnadas.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Felip MartÃ­</nom><nota>5</nota><email>fmarti@gmail.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="NO"><nom>Juanjo Roig</nom><email>fede@hotmail.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Magdalena Serra</nom><nota>10</nota><email>magda10@kissmail.com</email><genere>Dona</genere></alumne>            
+        </classe>
+        <classe nom="GA">
+            <alumne aprovat="SI"><nom>Maria Pinta</nom><nota>6</nota><email>maripi@hotmail.com</email><genere>Dona</genere></alumne>
+            <alumne aprovat="NO"><nom>Judith GonzÃ¡lez</nom><email>judigonza@mymail.net</email><genere>Dona</genere></alumne>
+            <alumne aprovat="SI"><nom>Sandra Taylor</nom><nota>7</nota><email>sandrat@mail.com</email><genere>Dona</genere></alumne>
+            <alumne aprovat="SI"><nom>Andreu Verd</nom><nota>5</nota><email>verd-clar@tymail.net</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Jaqueline Zumo</nom><nota>6</nota><email>zumo@sol.es</email><genere>Dona</genere></alumne>
+            <alumne aprovat="SI"><nom>Natasha Koma</nom><nota>9</nota><email>yoda@pissmail.ru</email><genere>Dona</genere></alumne>
+        </classe>
+        <classe nom="AF">
+            <alumne aprovat="SI"><nom>Eli Prisa</nom><nota>6</nota><email>elipri@gmail.com</email><genere>Dona</genere></alumne>
+            <alumne aprovat="NO"><nom>Gori Puig</nom><email>goripu@hotmail.com</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Adela Puig</nom><nota>3</nota><email>ade14@yahoo.com</email><genere>Dona</genere></alumne>
+            <alumne aprovat="SI"><nom>Toni Cirerer</nom><nota>5</nota><email>cirerer-florit@correu.cat</email><genere>Home</genere></alumne>
+            <alumne aprovat="SI"><nom>Maria de la Llum Brom</nom><nota>10</nota><email>marillu@llummail.cat</email><genere>Dona</genere></alumne>
+            <alumne aprovat="SI"><nom>Teodore Poussin</nom><nota>5</nota><email>tpss@hotmail.com</email><genere>Home</genere></alumne>            
+        </classe>
+    </notes>
+</institut>
