@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+  <producto>
+    <cod_prod>TC.32700.064</cod_prod>
+    <denominacion>Disco duro - 1 TB - hot-swap - 3.5" LFF - SATA-300 - 7200 rpm - para Acer AN1600 F1, AR160 F1, AR180 F1, AR585 F1, AT150 F1, AT310 F1, AT350 F1, AW2000</denominacion>
+    <precio>184.00</precio>
+    <stock_actual>20</stock_actual>
+    <stock_minimo>15</stock_minimo>
+    <cod_zona>20</cod_zona>
+  </producto>
+  <producto>
+    <cod_prod>TC.32700.003</cod_prod>
+    <denominacion>Disco duro - 300 GB - hot-swap - 3.5" - SAS - 15000 rpm - para Acer AR180 F1, AT350 F1</denominacion>
+    <precio>137.33</precio>
+    <stock_actual>4</stock_actual>
+    <stock_minimo>4</stock_minimo>
+    <cod_zona>20</cod_zona>
+  </producto>
+  <producto>
+    <cod_prod>TC.32700.015</cod_prod>
+    <denominacion>Disco duro - 500 GB - externo ( portátil ) - 2.5" - USB 3.0 - 5400 rpm - negro</denominacion>
+    <precio>58.14</precio>
+    <stock_actual>16</stock_actual>
+    <stock_minimo>12</stock_minimo>
+    <cod_zona>15</cod_zona>
+  </producto>
+  <producto>
+    <cod_prod>NB.32500.015</cod_prod>
+    <denominacion>Core i5 1.8 GHz - 4 GB RAM - 320 GB - 11.6" panorámico 1366 x 768 / HD</denominacion>
+    <precio>487.34</precio>
+    <stock_actual>18</stock_actual>
+    <stock_minimo>12</stock_minimo>
+    <cod_zona>20</cod_zona>
+  </producto>
+  <producto>
+    <cod_prod>NB.32500.020</cod_prod>
+    <denominacion>E2-2000 1.75 GHz - Windows 8 - 4 GB RAM - 500 GB HDD - 11.6" panorámico 1366 x 768 - AMD Radeon HD 7340 - blanco</denominacion>
+    <precio>465.46</precio>
+    <stock_actual>20</stock_actual>
+    <stock_minimo>10</stock_minimo>
+    <cod_zona>15</cod_zona>
+  </producto>
+  <producto>
+    <cod_prod>TB.32800.020</cod_prod>
+    <denominacion>Tableta - 64 GB - 9.7" IPS ( 1024 x 768 ) - cámara posterior + cámara frontal - Wi-Fi, Bluetooth - negro</denominacion>
+    <precio>504.17</precio>
+    <stock_actual>12</stock_actual>
+    <stock_minimo>5</stock_minimo>
+    <cod_zona>20</cod_zona>
+  </producto>
+  <producto>
+    <cod_prod>TB.32800.017</cod_prod>
+    <denominacion>Tableta - 16 GB - 9.7" IPS ( 1024 x 768 ) - cámara posterior + cámara frontal - Wi-Fi, Bluetooth - 3G - negro</denominacion>
+    <precio>446.80</precio>
+    <stock_actual>67</stock_actual>
+    <stock_minimo>50</stock_minimo>
+    <cod_zona>20</cod_zona>
+  </producto>
+  <producto>
+    <cod_prod>TB.32800.019</cod_prod>
+    <denominacion>Tableta - iOS 6 - 16 GB - 7.9" IPS ( 1024 x 768 ) - cámara posterior + cámara frontal - Wi-Fi, Bluetooth - negro y pizarra</denominacion>
+    <precio>289.26</precio>
+    <stock_actual>40</stock_actual>
+    <stock_minimo>50</stock_minimo>
+    <cod_zona>20</cod_zona>
+  </producto>
+</productos>

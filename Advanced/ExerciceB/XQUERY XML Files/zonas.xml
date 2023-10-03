@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<zonas>
+  <zona>
+    <cod_zona>20</cod_zona>
+    <nombre>Gracia</nombre>
+    <director>Suarez</director>
+  </zona>
+  <zona>
+    <cod_zona>15</cod_zona>
+    <nombre>Sant-Gervasi</nombre>
+    <director>Perez</director>
+  </zona>
+</zonas>
