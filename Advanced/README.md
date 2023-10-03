@@ -1,6 +1,6 @@
 # Advanced exercices
 ## Exercice a)
-- [ExerciceA](https://github.com/oscarjuly23/Web_Basics/tree/main/Advanced/EjercicioA):
+- [ExerciceA](https://github.com/oscarjuly23/Web_Basics/tree/main/Advanced/ExerciceA):
 1. El objetivo de esta actividad es utilizar expresiones XPATH para extraer resultados de un documento XML. Dado el documento XML books.xml que tienes en SALLENET, escribe las expresiones XPATH que permitan acceder a la siguiente información.
 2. El objetivo de esta actividad es utilizar expresiones XPATH para extraer resultados de un documento XML. Dado el documento XML notas_alumnos.xml que tienes en SALLENET, escribe las expresiones XPATH que respondan a las siguientes preguntas.
 3. El objetivo de esta actividad es utilizar expresiones XPATH para extraer resultados de un documento XML. A partir del documento prevision.xml que dispones en SALLENET que contiene información sobre la previsión meteorológica en distintas poblaciones de Cataluña en Mayo 2018, escribe las expresiones XPATH que respondan a las siguientes preguntas:
@@ -11,7 +11,7 @@
 - ¿Media de temperaturas del Alt Empordá?
 
 ## Exercice b)
-- [ExerciceB](https://github.com/oscarjuly23/Web_Basics/tree/main/Advanced/EjercicioB):
+- [ExerciceB](https://github.com/oscarjuly23/Web_Basics/tree/main/Advanced/ExerciceB):
 El objetivo de esta actividad es utilizar la base de datos BASEX y realizar consultas XQUERY. Crea una nueva base de datos denominada productos, que contenga el fichero productos.xml.
 Este documento contiene los datos de los productos de una distribuidora de material informático. Por cada producto tenemos código, denominación, precio, stock actual, stock mínimo y el código de la zona.
 La siguiente tabla muestra la asociación entre códigos y tipo de producto.
@@ -36,7 +36,7 @@ dos documentos realiza las siguientes consultas XQUERY:
 4.  Visualiza los nombres de los productos con stock mínimo>10, su código de zona, el nombre de la zona, el director de la zona. Utiliza dos for en la consulta
 
 ## Exercice c)
-- [ExerciceC](https://github.com/oscarjuly23/Web_Basics/tree/main/Advanced/EjercicioC):
+- [ExerciceC](https://github.com/oscarjuly23/Web_Basics/tree/main/Advanced/ExerciceC):
 El objetivo de esta actividad es ver la relación entre ficheros XML y bases de datos relacionales.
 En este ejercicio guiado vamos a practicar el acceso a ficheros XML desde Java usando SAX
 (Simple API for XML). Esta técnica se puede utilizar para tratar cualquier documento XML,
