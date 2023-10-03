@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+<title>Dedicacion ejercicios UF02 M04</title>
+<link></link>
+<item>
+<title>Ejercicio 1</title>
+<description>30 minutos</description>
+</item>
+<item>
+<title>Ejercicio 2</title>
+<description>30 minutos</description>
+</item>
+<item>
+<title>Ejercicio 3</title>
+<description>20 minutos</description>
+</item>
+<item>
+<title>Ejercicio 4</title>
+<description>45 minutos</description>
+</item>
+<item>
+<title>Ejercicio 5</title>
+<description>40 minutos</description>
+</item>
+</channel>
+</rss>
