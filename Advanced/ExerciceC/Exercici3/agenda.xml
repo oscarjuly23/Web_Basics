@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<agenda>
+    <data dia="10-10-2011" >
+        <cita hora="10:00">
+            <titol>Visita al dentista</titol>
+            <durada>60</durada>
+            <comentari/>
+        </cita>
+    </data>
+
+    <data dia="11-10-2011" />
+    
+    <data dia="12-10-2011">
+        <cita hora="8:00">
+            <titol>Excursió a la Salut de Terrades</titol>
+            <durada>240</durada>
+            <comentari>
+                Trucar a en Pere i en Pau per veure si venen
+                <contacte>
+                    <nom>Pere</nom>
+                    <correu>pere@mailz.com</correu>
+                </contacte>
+                <contacte>
+                    <nom>Pau</nom>
+                    <correu>pau_papau@aquibegracies.cat</correu>
+                </contacte>
+            </comentari>
+        </cita>
+        <cita hora="21:00">
+            <titol>Cinéma</titol>
+            <durada>240</durada>
+            <comentari>
+                Trucar un dia abans a la Maria per confirmar si pot venir
+                <contacte>
+                    <nom>Maria</nom>
+                    <correu>maria@catmail.cat</correu>
+                </contacte>
+            </comentari>
+        </cita>
+        
+    </data>
+    
+    <data dia="13-10-2011">
+        <cita hora="9:30">
+            <titol>Reunió amb els representants de Porquets, SA</titol>
+            <durada>180</durada>
+            <comentari/>
+        </cita>        
+    </data>
+    
+    <data dia="14-10-2011">
+        <cita hora="08:00">
+            <titol>Congrés de Telefonia mòbil</titol>
+            <durada>08:00</durada>
+            <comentari/>            
+        </cita>        
+    </data>
+    <data dia="15-10-2011" />        
+    
+</agenda>    
