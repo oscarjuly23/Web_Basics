@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Ejercicio1.xsl"?>
+<company>
+<name>La Salle Gracia</name>
+<address>Plaça del Nord, 14 08024 Barcelona</address>
+<phone>932 92 21 18</phone>
+</company>
