@@ -1,0 +1,144 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html, body{
+	width: 100%;
+	height: 100%;
+	font-family: 'roboto';
+}
+
+header{
+	position: fixed;
+	top:0;
+	left: 0;
+	width: 100%;
+	height: 70px;
+	background-color: white;
+	z-index: 5;
+}
+.logo{
+	background-image: url(../img/logo.gif);
+	background-repeat: no-repeat;
+	width: 98px;
+	height: 28px;
+	margin:15px 40px 30px 0px;
+	float: left;
+	cursor: pointer;
+}
+nav{
+	width: 940px;
+	margin: 0 auto;
+}
+li{
+	list-style-type: none;
+}
+li a{
+	text-decoration: none;
+	color: #0078ca;
+	font-size: 18px;
+	font-weight: bold;
+	float: left;
+	padding: 24px 10px;
+}
+li a:hover{
+	background-color:#00aff0;
+	color: white;
+}
+
+footer{
+	height: 250px;
+	width:100%;
+	background-color:#2b5464;
+}
+.ratllablava{
+	height: 9px;
+	width: 100%;
+	background-color: #00aff0;
+}
+.navegadores{
+	float: right;
+}
+.inicisessio{
+	float: left;
+}
+.descargavideo{
+	float: left;
+}
+.inicisessio a{
+	text-decoration: none;
+	color: black;
+	display: block;
+	line-height: 30px;
+	padding: 0px 14px;
+	border: 1px solid #c0dce6;
+	border-radius: 20px;
+	margin-top: 15px;
+	margin-left: 100px;
+}
+.inicisessio a:hover{
+	background-color: #c0dce6;
+	color:white;
+}
+.descargavideo a{
+	text-decoration: none;
+	color: white;
+	display: block;
+	line-height: 30px;
+	padding: 0px 14px;
+	border: 1px solid #c0dce6;
+	border-radius: 20px;
+	background-color:#7db800;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+.general{
+	width: 100%;
+	background-color: white;
+	margin-top: 70px;
+	height: 639px;
+}
+.gran{
+	width: 940px;
+	margin: 0 auto;
+}
+.foto{
+	background-image: url(../img/mando.png);
+	width: 226px;
+	height: 639px;
+	float: left;
+}
+h3{
+	font-size: 35pt;
+
+}
+.family{
+	background-image: url(../img/imgfons.gif);
+	width: 100%;
+	height: 630px;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.text{
+	padding: 10px;
+}
+.fotofam{
+	background-image: url(../img/imgfons.gif);
+}
+.textfoto{
+	text-align: center;
+	color: white;
+ 	font-family: 'sans-serif';
+
+}
+.botom{
+
+}
+
+
+
+
+
+
+
+
