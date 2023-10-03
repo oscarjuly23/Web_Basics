@@ -4,3 +4,9 @@ Introduction to Web Programming
 - [Basket](https://github.com/oscarjuly23/Web_Basics/tree/main/Personal)
 - [Vimeo](https://github.com/oscarjuly23/Web_Basics/tree/main/Vimeo)
 - [DonarSang](https://github.com/oscarjuly23/Web_Basics/tree/main/Sangre_OscarJ_VictorV)
+
+## XML Exercices
+- [Begin](https://github.com/oscarjuly23/Web_Basics/tree/main/Personal)
+- [Intermediate](https://github.com/oscarjuly23/Web_Basics/tree/main/Personal)
+- [Advances](https://github.com/oscarjuly23/Web_Basics/tree/main/Personal)
+- [Exam](https://github.com/oscarjuly23/Web_Basics/tree/main/Personal)
