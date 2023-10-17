@@ -20,6 +20,3 @@ Introduction to Web Programming [2016/17]
 - [Beginner](https://github.com/oscarjuly23/Web_Basics/tree/main/Beginner)
 - [Intermediate](https://github.com/oscarjuly23/Web_Basics/tree/main/Intermediate)
 - [Advanced](https://github.com/oscarjuly23/Web_Basics/tree/main/Advanced)
-- [Exam](https://github.com/oscarjuly23/Web_Basics/tree/main/Personal)
-
-En este repositorio se encuentran los primeros pasos en los conceptos fundamentales de la programación web. Cada carpeta contiene proyectos y ejercicios que me ayudaron a adentrarme en el mundo del desarrollo web.
