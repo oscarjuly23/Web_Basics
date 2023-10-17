@@ -1,4 +1,4 @@
-# Basic exercices
+# Intermediate exercices
 - [Exercice1](https://github.com/oscarjuly23/Web_Basics/tree/main/Intermediate/Ejercicio1):
 Dado el siguiente documento XML, escribe la hoja de estilo XSLT que devuelva el documento HTML que se muestra en la imagen.
 - [Exercice2](https://github.com/oscarjuly23/Web_Basics/tree/main/Intermediate/Ejercicio2):
